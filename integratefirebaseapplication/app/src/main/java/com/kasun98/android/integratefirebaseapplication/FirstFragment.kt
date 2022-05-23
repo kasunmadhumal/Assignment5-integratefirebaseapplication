@@ -7,8 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.google.firebase.firestore.FirebaseFirestore
-
 import com.kasun98.android.integratefirebaseapplication.databinding.FragmentFirstBinding
+
+
 import com.kasun98.android.integratefirebaseapplication.model.User
 
 class FirstFragment : Fragment() {
